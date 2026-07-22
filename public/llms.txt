@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://haftaa.zappy5.app
 הפתעה מתוקה ומשעשעת לט&quot;ו באב: כפתור ה&#39;לא&#39; בורח מהעכבר, וכשלוחצים &#39;כן&#39; נפתח מסך חגיגי עם לבבות מרחפים. הדרך הכי כיפית להזמין מישהו מיוחד לדייט בלתי נשכח. לחצו עכשיו וגלו את הקסם!
 
 ### תודה - הפתעה
-https://example.com/thank-you
+https://haftaa.zappy5.app/thank-you
 הפתעה - תודה - הפתעה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://haftaa.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://haftaa.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://haftaa.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,16 +35,16 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://haftaa.zappy5.app
+- Endpoint: https://haftaa.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
-  - `name` (text)
-  - `email` (email)
+  - `name` (text, required)
+  - `email` (email, required)
   - `phone` (tel)
   - `message` (textarea)
-  - `privacy_consent` (checkbox)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
@@ -65,6 +65,6 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://haftaa.zappy5.app/sitemap.xml
+- Robots: https://haftaa.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://haftaa.zappy5.app/llms-full.txt
