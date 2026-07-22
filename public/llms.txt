@@ -1,0 +1,70 @@
+# הפתעה — Generative Engine Optimization Map
+
+> A personal, heartfelt romantic invitation page built for Tu B'Av (the Jewish holiday of love). The page features a playful interactive mechanic where the 'No' button escapes the cursor, making it impossible to decline. Upon accepting, a celebration screen appears with a shower of floating heart emojis. The overall vibe is sweet, fun, and deeply personal — designed to make one specific person say yes to a date.
+
+---
+
+## Pages
+
+### בית
+https://-c643f042.zappy5.app
+הפתעה מתוקה ומשעשעת לט&quot;ו באב: כפתור ה&#39;לא&#39; בורח מהעכבר, וכשלוחצים &#39;כן&#39; נפתח מסך חגיגי עם לבבות מרחפים. הדרך הכי כיפית להזמין מישהו מיוחד לדייט בלתי נשכח. לחצו עכשיו וגלו את הקסם!
+
+### תודה - הפתעה
+https://-c643f042.zappy5.app/thank-you
+הפתעה - תודה - הפתעה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c643f042.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c643f042.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c643f042.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-c643f042.zappy5.app
+- Endpoint: https://-c643f042.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הפתעה
+A personal, heartfelt romantic invitation page built for Tu B'Av (the Jewish holiday of love). The page features a playful interactive mechanic where the 'No' button escapes the cursor, making it impossible to decline. Upon accepting, a celebration screen appears with a shower of floating heart emojis. The overall vibe is sweet, fun, and deeply personal — designed to make one specific person say yes to a date.
+
+## Target Audience
+- זוגות רומנטיים
+- מקצוענים יהודים צעירים
+- זוגות צעירים מאורסים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c643f042.zappy5.app/sitemap.xml
+- Robots: https://-c643f042.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c643f042.zappy5.app/llms-full.txt
