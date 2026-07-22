@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://-c643f042.zappy5.app
+https://example.com
 הפתעה מתוקה ומשעשעת לט&quot;ו באב: כפתור ה&#39;לא&#39; בורח מהעכבר, וכשלוחצים &#39;כן&#39; נפתח מסך חגיגי עם לבבות מרחפים. הדרך הכי כיפית להזמין מישהו מיוחד לדייט בלתי נשכח. לחצו עכשיו וגלו את הקסם!
 
 ### תודה - הפתעה
-https://-c643f042.zappy5.app/thank-you
+https://example.com/thank-you
 הפתעה - תודה - הפתעה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c643f042.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c643f042.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c643f042.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-c643f042.zappy5.app
-- Endpoint: https://-c643f042.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -65,6 +65,6 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-c643f042.zappy5.app/sitemap.xml
-- Robots: https://-c643f042.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-c643f042.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
